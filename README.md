@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **PYTHON & Django developer**
 
-- 👨‍💻 All of my projects are available at (https://ashutosh-sa.github.io/Portfolio-OBISIP1/)(https://ashutosh-sa.github.io/Portfolio-OBISIP1/))
+- 👨‍💻 All of my projects are available at (https://ashutosh-sa.github.io/Portfolio-OBISIP1/)
 
 - 💬 Ask me about **HTML, CSS,JS,REACT**
 
