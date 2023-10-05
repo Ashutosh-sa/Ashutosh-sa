@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ay502920@gmail.com**
 
-- 📄 Know about my experiences [(https://docs.google.com/document/d/1FzVdhO172FGRzATzoH4RC-61q1athjVJ/edit?usp=sharing&ouid=108084571920369182128&rtpof=true&sd=true](https://docs.google.com/document/d/1FzVdhO172FGRzATzoH4RC-61q1athjVJ/edit))
+- 📄 Know about my experiences (https://docs.google.com/document/d/1FzVdhO172FGRzATzoH4RC-61q1athjVJ/edit))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
