@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-sa&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-sa" /> </p>
 
-- 🔭 I’m currently working on [GAME](https://github.com/Ashutosh-sa/CodSoft_Rock-paper-scissors_Game)
+- 🔭 I’m currently working on [Website](https://ashutosh-sa.github.io/Portfolio-OBISIP1/)
 
 - 🌱 I’m currently learning **PYTHON & Django developer**
 
