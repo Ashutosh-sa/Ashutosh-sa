@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-sa&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-sa" /> </p>
 # 💫 About Me:
 
-🔭 I’m currently working on :-  [Spotify-clone_website] (https://ashutosh-sa.github.io/Spotify_Clone-website/)<br>🌱 I’m currently learning :-      [Backend]<br>💬 Ask me about :-       [HTML, CSS, JS, MYSQL]<br>📫 How to reach me :-       (ay502920@gmail.com)<br>👨‍💻 All of my projects are available at :-      (https://ashutosh-sa.github.io/Portfolio-Website/ )<br>📄 Know about my experiences :-     (https://docs.google.com/document/d/1yEBlHSnrvtO0Q8rFKoekmlVZ5tzptogB/edit?usp=sharing&ouid=108084571920369182128&rtpof=true&sd=true) <br>⚡ Fun fact :-     I think I am Funny
+🔭 I’m currently working on :-  [Spotify-clone_website] (https://ashutosh-sa.github.io/Spotify_Clone-website/)<br>🌱 I’m currently learning :-      [Backend]<br>💬 Ask me about :-       [HTML, CSS, JS, MYSQL]<br>📫 How to reach me :-       (ay502920@gmail.com)<br>👨‍💻 All of my projects are available at :-      (https://ashutosh-sa.github.io/Portfolio-Website/ )<br>📄 Know about my experiences :-     (https://docs.google.com/document/d/1ddiUOdVI9D8Rh4S3eG4tr7_TvYx3rt4W/edit?usp=sharing&ouid=108084571920369182128&rtpof=true&sd=true) <br>⚡ Fun fact :-     I think I am Funny
 
 
 ## 🌐 Socials:
