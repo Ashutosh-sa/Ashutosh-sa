@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-sa&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-sa" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1ToGSupw1mDkODlq1VzRu0e8uHelbDgTX/view?usp=sharing" /> </p>
 # 💫 About Me:
 
-🔭 I’m currently working on :-  [Spotify-clone_website] (https://ashutosh-sa.github.io/Spotify_Clone-website/)<br>🌱 I’m currently learning :-      [Backend]<br>💬 Ask me about :-       [HTML, CSS, JS, MYSQL]<br>📫 How to reach me :-       (ay502920@gmail.com)<br>👨‍💻 All of my projects are available at :-      (https://ashutosh-sa.github.io/Portfolio-Website/ )<br>📄 Know about my experiences :-     (https://drive.google.com/file/d/1ToGSupw1mDkODlq1VzRu0e8uHelbDgTX/view?usp=sharing) <br>⚡ Fun fact :-     I think I am Funny
+🔭 I’m currently working on :-  [Spotify-clone_website] (https://ashutosh-sa.github.io/Spotify_Clone-website/)<br>🌱 I’m currently learning :-      [Backend]<br>💬 Ask me about :-       [HTML, CSS, JS, MYSQL]<br>📫 How to reach me :-       (ashutoshcs011@gmail.com)<br>👨‍💻 All of my projects are available at :-      (https://ashutosh-sa.github.io/Portfolio-Website/ )<br>📄 Know about my experiences :-     (https://drive.google.com/file/d/1ToGSupw1mDkODlq1VzRu0e8uHelbDgTX/view?usp=sharing) <br>⚡ Fun fact :-     I think I am Funny
 
 
 ## 🌐 Socials:
