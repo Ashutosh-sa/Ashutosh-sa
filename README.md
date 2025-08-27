@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://drive.google.com/file/d/1ToGSupw1mDkODlq1VzRu0e8uHelbDgTX/view?usp=sharing" /> </p>
 # 💫 About Me:
 
-🔭 I’m currently working on :-  [CJ-AI-made by me] (https://ashutosh-sa.github.io/Jarvis-AI-main/)<br>🌱 I’m currently learning :-      [Backend]<br>💬 Ask me about :-       [HTML, CSS, JS, MYSQL]<br>📫 How to reach me :-       (ashutoshcs011@gmail.com)<br>👨‍💻 All of my projects are available at :-      (https://ashutosh-sa.github.io/Portfolio-Website/ )<br>📄 Know about my experiences :-     (https://drive.google.com/file/d/1-cpSwB3QEKXK-yLT4XW3Da-gY2dSyvHV/view?usp=sharing) <br>⚡ Fun fact :-     I think I am Funny
+🔭 I’m currently working on :-  [CJ-AI-made by me](https://ashutosh-sa.github.io/CJ-AI-main/)<br>🌱 I’m currently learning :-      [Backend]<br>💬 Ask me about :-       [HTML, CSS, JS, MYSQL]<br>📫 How to reach me :-       (ashutoshcs011@gmail.com)<br>👨‍💻 All of my projects are available at :-      (https://ashutosh-sa.github.io/Portfolio-Website/ )<br>📄 Know about my experiences :-     (https://drive.google.com/file/d/1-cpSwB3QEKXK-yLT4XW3Da-gY2dSyvHV/view?usp=sharing) <br>⚡ Fun fact :-     I think I am Funny
 
 
 ## 🌐 Socials:
