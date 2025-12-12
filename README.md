@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://drive.google.com/file/d/1HWKUMi-IuUAWdwlZHhrVQArRsDDKgHta/view?usp=sharing" /> </p>
 # 💫 About Me:
 
-🔭 I’m currently working on :-  [CJ-AI-made by me](https://ashutosh-sa.github.io/CJ-AI-main/)<br>🌱 I’m currently working :- as Salesforce Developer at kloudcodey pvt. ltd <br>💬 Ask me about :-       [Django, Python, SQL, Oracle, JavaScript, CSS, HTML]<br>📫 How to reach me :-       (ashutoshcs011@gmail.com)<br>👨‍💻 All of my projects are available at :-      (https://ashutosh-sa.github.io/Portfolio-Website/ )<br>📄 Know about my experiences :-     (https://drive.google.com/file/d/1HWKUMi-IuUAWdwlZHhrVQArRsDDKgHta/view?usp=sharing) <br>⚡ Fun fact :-     I think I am Funny
+🌱 I’m currently working :- as Salesforce Developer at kloudcodey pvt. ltd <br>💬 Ask me about :-       [Django, Python, SQL, Oracle, JavaScript, CSS, HTML]<br>📫 How to reach me :-       (ashutoshcs011@gmail.com)<br>👨‍💻 All of my projects are available at :-      (https://ashutosh-sa.github.io/Portfolio-Website/ )<br>📄 Know about my experiences :-     (https://drive.google.com/file/d/1HWKUMi-IuUAWdwlZHhrVQArRsDDKgHta/view?usp=sharing) <br>⚡ Fun fact :-     I think I am Funny
 
 
 ## 🌐 Socials:
