@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Yadav</h1>
-<h3 align="center">A  Salesforce developer at kloudcodey pvt. ltd. from varanasi, U.P, India</h3>
+<h3 align="center">A  Salesforce developer at @kloudcodey pvt. ltd. from varanasi, U.P, India</h3>
 <img align="right" alt="coding" width="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://drive.google.com/file/d/1HWKUMi-IuUAWdwlZHhrVQArRsDDKgHta/view?usp=sharing" /> </p>
 # 💫 About Me:
 
-🌱 I’m currently working :- as Salesforce Developer at kloudcodey pvt. ltd <br>💬 Ask me about :-       [Django, Python, SQL, Oracle, JavaScript, CSS, HTML]<br>📫 How to reach me :-       (ashutoshcs011@gmail.com)<br>👨‍💻 All of my projects are available at :-      (https://ashutosh-sa.github.io/Portfolio-Website/ )<br>📄 Know about my experiences :-     (https://drive.google.com/file/d/1HWKUMi-IuUAWdwlZHhrVQArRsDDKgHta/view?usp=sharing) <br>⚡ Fun fact :-     I think I am Funny
+🌱 I’m currently working :- as Salesforce Developer at kloudcodey pvt. ltd <br>💬 Ask me about :-       [Salesforce Admin , Apex Trigger, LWC, Visualforce Page, SOQL/SOSl, Flow Automation, Agentforce, AgentScript, Slack, Python, Oracle SQL, JavaScript, CSS, HTML]<br>📫 How to reach me :-       (ashutoshcs011@gmail.com)<br>👨‍💻 All of my projects are available at :-      (https://ashutosh-sa.github.io/Portfolio-Website/ )<br>📄 Know about my experiences :-     (https://drive.google.com/file/d/1HWKUMi-IuUAWdwlZHhrVQArRsDDKgHta/view?usp=sharing) <br>⚡ Fun fact :-     I think I am Funny
 
 
 ## 🌐 Socials:
